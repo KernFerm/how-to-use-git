@@ -161,10 +161,10 @@ Welcome to your first GitHub repository! This tutorial will guide you through th
   ```
   git branch -d <branch-name>
   ```
-    - Delete a remote branch:
-    ```
-    git push origin --delete <branch-name>
-    ```
+  - Delete a remote branch:
+  ```
+  git push origin --delete <branch-name>
+  ```
 
 ## Troubleshooting Tips
   - If you encounter any issues, consult the [Git Documentation](https://git-scm.com/doc) or seek help from the GitHub community.
